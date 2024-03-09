@@ -1,0 +1,2 @@
+FLASK_APP=src.flask_htmx_tailwind
+FLASK_DEBUG=1
